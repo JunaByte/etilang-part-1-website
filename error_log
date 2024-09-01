@@ -1,0 +1,22 @@
+[09-Jun-2022 13:54:20 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 608
+[09-Jun-2022 06:56:48 UTC] PHP Parse error:  syntax error, unexpected '$xPos' (T_VARIABLE) in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 646
+[09-Jun-2022 06:56:52 UTC] PHP Parse error:  syntax error, unexpected '$xPos' (T_VARIABLE) in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 646
+[09-Jun-2022 06:56:59 UTC] PHP Parse error:  syntax error, unexpected '$xPos' (T_VARIABLE) in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 646
+[09-Jun-2022 13:58:34 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 608
+[09-Jun-2022 14:00:19 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 608
+[09-Jun-2022 14:02:09 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 608
+[09-Jun-2022 16:08:46 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 608
+[09-Jun-2022 16:35:33 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 625
+[09-Jun-2022 16:37:26 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 625
+[09-Jun-2022 16:37:52 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 625
+[09-Jun-2022 16:38:45 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 625
+[09-Jun-2022 16:43:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method FPDF::MutliCell() in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 595
+[09-Jun-2022 17:35:52 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 612
+[09-Jun-2022 10:37:31 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 677
+[09-Jun-2022 18:27:54 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 608
+[09-Jun-2022 18:29:13 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 608
+[09-Jun-2022 18:29:54 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 608
+[09-Jun-2022 18:30:43 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 608
+[09-Jun-2022 11:40:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 642
+[09-Jun-2022 12:00:05 UTC] PHP Parse error:  syntax error, unexpected ''C'' (T_CONSTANT_ENCAPSED_STRING) in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 614
+[10-Jun-2022 08:44:00 UTC] PHP Parse error:  syntax error, unexpected ',', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/yayasana/public_html/kapanskom.my.id/application/controllers/Admin.php on line 607
