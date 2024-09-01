@@ -1,3 +1,7 @@
+![Alt text](/etilang-part-1-website-/blob/main/screenshoot/etilang_web.png)
+
+https://github.com/JunaByte/etilang-part-1-website-/blob/main/screenshoot/etilang_web.png
+
 Website Management Etilang  
 📖 Overview  
 Welcome to the Etilang Website Management repository!  This project focuses on the management, development, and maintenance of the Etilang website, which is a crucial component of our Etilang application.  Please note that the application itself is managed in a separate repository.
