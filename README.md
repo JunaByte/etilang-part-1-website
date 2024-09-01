@@ -1,6 +1,4 @@
-![Alt text](/etilang-part-1-website-/blob/main/screenshoot/etilang_web.png)
-
-https://github.com/JunaByte/etilang-part-1-website-/blob/main/screenshoot/etilang_web.png
+![Alt text](screenshoot/etilang_web.png)
 
 Website Management Etilang  
 📖 Overview  
